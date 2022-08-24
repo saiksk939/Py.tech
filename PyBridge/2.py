@@ -1,0 +1,12 @@
+from turtle import *
+shape('classic')
+shapesize(5)
+color('green')
+speed(2)
+penup()
+goto(200,0)
+pendown()
+circle(50)
+penup()
+goto(-300,0)
+done()
