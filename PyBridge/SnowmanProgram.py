@@ -1,7 +1,9 @@
+from importlib.util import spec_from_file_location
 import turtle 
 s=turtle.Screen()
 t=turtle.Turtle()
 t.pensize(3)
+t.speed(0)
 turtle.screensize(canvheight=600, canvwidth=600, bg = 'orange' )
 t.pencolor("black")
 def draw_circle(color, radius, x, y):
