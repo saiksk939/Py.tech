@@ -32,11 +32,11 @@
 #-------------------------------------------------------------------
 
 # 4th program
-var=input('Enter any character: ')
-if(var>='0' and var<='9'):
-    print('The entered character is a digit')
-else:
-    print('The entered character is not a digit') 
+#var=input('Enter any character: ')
+#if(var>='0' and var<='9'):
+#    print('The entered character is a digit')
+#else:
+#    print('The entered character is not a digit') 
 #--------------------------------------------------------------
 
 # 5th program
@@ -55,3 +55,11 @@ else:
 #    print('The given no is zero (0)')
 #else:
 #    print('The given no is negative')
+#-----------------------------------------------------
+
+#6th program
+boka=['a','b','c','d','e',]
+if 'j' in boka:
+    print('yes j is available in boka')
+else:
+    print('No j is not available')

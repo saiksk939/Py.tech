@@ -1,0 +1,26 @@
+#Arithmetic operator==> used to perform basic math calculations
+# syn: (+, -, /, %, ++, --)
+
+#Comparison/Relational Operators==> used to compare any two values these are 
+#                                      boolean op, they returns true or false
+#    syn: (==, !=, <, >, <=, >=, ===, !==)
+
+#Assignment operator==> used to store data into memory block/variable
+# syn: (=)
+#  sub operator of assignment op is
+#  shorthand/shortcut operator: used to simple arith or Bitwise
+#    syn: (=, +=, -=, /=, >>=, <<==, **=, *=, /=, %=)
+
+#Logical Operators==> used to multiple comparisions @time 
+#                      these are boolean opm=, they returns true or false
+#    syn: (and, or, not)Logical operator
+
+#Bitwise operator
+#syn: (&, \, ^, ~, <<, >>, >>>)
+
+#Special Operators
+    #Membership operator=>
+    #syn(is, is not)
+
+    #Identity operator=>To test a particular var is available in sequence or not
+    #syn(in, not in)
