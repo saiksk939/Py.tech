@@ -1,0 +1,3 @@
+Types of Python functions 
+1) Inbuilt-functions
+2) User defined functions (def)

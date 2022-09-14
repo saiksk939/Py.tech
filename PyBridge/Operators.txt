@@ -19,8 +19,8 @@
 #syn: (&, \, ^, ~, <<, >>, >>>)
 
 #Special Operators
-    #Membership operator=>
+    #Identity operator=>The Identity Operators are used to decide whether an element belongs to class or type
     #syn(is, is not)
 
-    #Identity operator=>To test a particular var is available in sequence or not
-    #syn(in, not in)
+    #Membership operator=>To test a particular var is available in sequence or not
+     #syn(in, not in)

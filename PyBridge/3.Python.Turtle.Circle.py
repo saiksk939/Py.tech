@@ -8,4 +8,3 @@ pensize(1)
 for i in range(40):
     forward(100)
     right(70)
-done()
