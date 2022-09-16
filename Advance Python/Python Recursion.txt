@@ -1,2 +1,0 @@
-Python Recurtion:
-- When a function call itself then it is known as a function recursion.
