@@ -7,4 +7,4 @@ def find_sum(n):  #function definition
     for i in range(1,n+1):   #iteration
         sum+=i   #sum=sum+i
     return sum
-print(find_sum(5))   #function calling
+print(find_sum(5))   #function calling 
